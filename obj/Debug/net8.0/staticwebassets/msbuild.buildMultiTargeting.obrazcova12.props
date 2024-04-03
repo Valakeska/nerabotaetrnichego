@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\obrazcova12.props" />
+</Project>

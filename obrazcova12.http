@@ -1,0 +1,6 @@
+@obrazcova12_HostAddress = http://localhost:5085
+
+GET {{obrazcova12_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNQedFnU2Y3Uy3p4f5AunstqQoSpT44U4qoQE/KKm5ub7cBCd22CknySJMDyQw5XAFbejZHIYWyziTLq+wYeag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deep\\source\\repos\\obrazcova12\\obrazcova12\\obrazcova12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deep\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\prometheus-net\\4.1.1\\prometheus-net.4.1.1.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\prometheus-net.aspnetcore\\4.1.1\\prometheus-net.aspnetcore.4.1.1.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Deep\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
